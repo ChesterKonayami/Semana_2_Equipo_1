@@ -10,6 +10,7 @@ namespace Semana_2_Equipo_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
